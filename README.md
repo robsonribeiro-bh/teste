@@ -6,3 +6,4 @@ Diretório de teste para aprender a usar o GITHUB
 =======
 3 - Alterando um arquivo na BRANT
 >>>>>>> branch1
+4 - Alterando o arquivo externamente
